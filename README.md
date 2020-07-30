@@ -1,6 +1,6 @@
 # IGDemo
 
-1. The project is based on BDD Cucumber framework.
+1. The project is based on BDD Cucumber framework using Rest Assured-Java.
 2. Test Report is also generated using maven-fire-plugins.
 3. All the jars are automatically download because on Maven pom.xml
 4. Used Junit for unit testing and assertions and verifying each and every method.
