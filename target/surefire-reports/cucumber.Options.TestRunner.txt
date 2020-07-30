@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: cucumber.Options.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 9.421 sec <<< FAILURE!
+Verify the Json response(Verify response validation)  Time elapsed: 8.121 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at stepDefinitions.StepDefinition.validate_response_body_with_data(StepDefinition.java:122)
+	at ?.validate response body with data(file:///C:/Users/Dipankar/eclipse-workspace/IGAssignment/src/test/java/features/responseValidations.feature:10)
+
